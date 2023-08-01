@@ -1,12 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a mathematical biologist interested in understanding clonal dynamics and cancer evolution, with the ultimate goal of improving patient outcomes. My research generally involves the development of computational methods to extract meaningful biological information from genomic and lineage tracing data from a single time-point; relying on mathematical models to describe complex, dynamic biological systems and Bayesian inference methods to fit these models to real patient data. 
+
+I earned my PhD from Barts Cancer Institute in 2022, having graduated with an integrated Master of Physics degree from the University of Oxford in 2017. I have been employed as a Postdoctoral Training Fellow at the [Institute of Cancer Research](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/genomics-and-evolutionary-dynamics) since 2022, primarily focusing on developing novel methods to infer the dynamics of somatic evolution within the human body.
+
+If you are interested in my research, please do not hesitate to get in touch.
+
+<!-- I am a mathematical biologist in
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -47,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

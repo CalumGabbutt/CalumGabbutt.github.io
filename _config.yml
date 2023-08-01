@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Calum Gabbutt"
 title_separator          : "-"
 name                     : &name "Calum Gabbutt"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Calum Gabbutt"
-  avatar           : "profile.png"
+  avatar           : "profile_headshot_lowres.jpg"
   bio              : "Mathematical Biology and Cancer Evolution"
   location         : "London, UK"
   employer         : "Institute of Cancer Research"
