@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D “Quantitative measurement of clonal evolution in human colon”, Barts Cancer Institute, Queen Mary University of London, 2017-2022
+  * Supervisor: Professor Trevor Graham and Professor Chris Barnes
+* MPhys in Physics (First Class Honours), University of Oxford, 2013-2017
+  * Awarded the NTT Prize for an MPhys Project in Biological Physics
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - Present: Postdoctoral Training Fellow
+  * Institute of Cancer Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022: Postdoctoral Research Assistant 
+  * Barts Cancer Institute, Queen Mary University of London
+
+* 2021: Research Intern
+  * CC Bio
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* High mathematical proficiency and considerable experience applying mathematical methods to biological systems, particularly with regard to somatic evolution and population genetics.
+* Excellent knowledge of a variety of coding languages (Python, Matlab, R, Stan), with extensive experience analysing large datasets, simulating physical systems and performing Bayesian inference.
+* Experience working with a high-performance computing cluster.
+* Highly experienced working collaboratively with both internal and external collaborators.
+*	Confident public speaker, comfortable presenting complex information to a wide range of technical and/or lay audiences. 
+
 
 Publications
 ======
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

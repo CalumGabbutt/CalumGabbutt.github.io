@@ -10,4 +10,4 @@ citation: 'Gabbutt, C., Wright, N.A., Baker, A.-M., Shibata, D. and Graham, T.A.
 ---
 A review article outlining the various approaches to learning about dynamic biological processes from naturally occurring lineage markers. This included a discussion of historical approaches, such as the use of germline mutations, to gold standard modern approaches like multi-region whole genome sequencing. 
 
-Recommended citation: Gabbutt, C., Wright, N.A., Baker, A.-M., Shibata, D. and Graham, T.A. (2022). "Lineage tracing in human tissues." <i>J. Pathol.</i>. 257: 501-512. [doi.org/10.1002/path.5911](https://doi.org/10.1002/path.5911)
+<!-- Recommended citation: Gabbutt, C., Wright, N.A., Baker, A.-M., Shibata, D. and Graham, T.A. (2022). "Lineage tracing in human tissues." <i>J. Pathol.</i>. 257: 501-512. [doi.org/10.1002/path.5911](https://doi.org/10.1002/path.5911) -->
