@@ -1,7 +1,7 @@
 ---
 title: "Crypt fusion as a homeostatic mechanism in the human colon"
 collection: publications
-permalink: /publication/2019-03-14-Crypt-fusion-as-a-homeostatic-mechanism-in-the-human-colon
+permalink: /publication/2019-03-14-crypt-fusion
 excerpt: 'In this study, evidence is presented for the existence of crypt fusion in the human colon, a novel homeostatic mechanism whereby two neighbouring intestinal crypts can merge to form a single daughter crypt.'
 date: 2019-03-14
 venue: 'Gut'
