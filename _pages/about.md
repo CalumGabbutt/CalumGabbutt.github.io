@@ -10,7 +10,7 @@ redirect_from:
 
 I am a mathematical biologist interested in understanding clonal dynamics and cancer evolution, with the ultimate goal of improving patient outcomes. My research generally involves the development of computational methods to extract meaningful biological information from genomic and lineage tracing data from a single time-point; relying on mathematical models to describe complex, dynamic biological systems and Bayesian inference methods to fit these models to real patient data. 
 
-I completed my PhD at Barts Cancer Institute in 2021, having graduated with an integrated Master of Physics degree from the University of Oxford in 2017. I have been employed as a Postdoctoral Training Fellow at the [Institute of Cancer Research](https://www.icr.ac.uk/our-research/research-divisions/division-of-molecular-pathology/genomics-and-evolutionary-dynamics) since 2022, primarily focusing on developing novel methods to infer the dynamics of somatic evolution within the human body.
+I am a Chapman-Schmidt AI in Science Postdoctoal Fellow at Imperial College London, where I work on combining my interest in somatic evolution within the human body with powerful machine learning methods. Prior to that, I completed my PhD at Barts Cancer Institute in 2021, having graduated with an integrated Master of Physics degree from the University of Oxford in 2017. I was also employed as a Postdoctoral Training Fellow at the Institute of Cancer Research between 2022-2024.
 
 If you are interested in my research, please do not hesitate to get in touch.
 
