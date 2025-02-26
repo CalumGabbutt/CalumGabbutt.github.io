@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D “Quantitative measurement of clonal evolution in human colon”, Barts Cancer Institute, Queen Mary University of London, 2017-2022
-  * Supervisor: Professor Trevor Graham and Professor Chris Barnes
-* MPhys in Physics (First Class Honours), University of Oxford, 2013-2017
-  * Awarded the NTT Prize for an MPhys Project in Biological Physics
-
 Employment
 ======
-* 2022 - Present: Postdoctoral Training Fellow
+* 2024 - Present: Chapman-Schmidt AI in Science Postdoctoral Fellow
+  * Imperial College London
+
+* 2022 - 2024: Postdoctoral Training Fellow
   * Institute of Cancer Research
 
 * 2022: Postdoctoral Research Assistant 
@@ -26,7 +22,16 @@ Employment
 
 * 2021: Research Intern
   * CC Bio
-  
+
+
+Education
+======
+* Ph.D “Quantitative measurement of clonal evolution in human colon”, Barts Cancer Institute, Queen Mary University of London, 2017-2022
+  * Supervisor: Professor Trevor Graham and Professor Chris Barnes
+* MPhys in Physics (First Class Honours), University of Oxford, 2013-2017
+  * Awarded the NTT Prize for an MPhys Project in Biological Physics
+
+
 Skills
 ======
 * High mathematical proficiency and considerable experience applying mathematical methods to biological systems, particularly with regard to somatic evolution and population genetics.
